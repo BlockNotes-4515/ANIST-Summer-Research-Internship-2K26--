@@ -7,11 +7,18 @@
 **Department:** ANIST – Amity Institute of Nuclear Science and Technology
 
 ---
-
 # RADMAP
-
 ## AI-Powered Radiation Mapping & Environmental Monitoring System
 
+![ANIST](https://img.shields.io/badge/ANIST-Amity%20Institute%20of%20Nuclear%20Science%20and%20Technology-red?style=for-the-badge)
+![Research Internship](https://img.shields.io/badge/Research%20&%20Development-Internship-green?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-System-orange?style=for-the-badge)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-AI-black?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourlinkedin)
+[![Follow on GitHub](https://img.shields.io/badge/Follow-GitHub-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
 ---
 
 # Internship & Organization Details
