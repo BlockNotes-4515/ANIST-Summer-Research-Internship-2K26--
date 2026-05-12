@@ -1,8 +1,3 @@
-# ANIST-Research-Internship
-“Research and Development Intern at ANIST | Internship Logs, Projects, and Technical Work.”
-
-# RADMAP
-
 ## AI-Powered Radiation Mapping & Environmental Monitoring System
 
 ### Research & Development Internship Project
@@ -12,6 +7,142 @@
 **Department:** ANIST – Amity Institute of Nuclear Science and Technology
 
 ---
+
+# RADMAP
+
+## AI-Powered Radiation Mapping & Environmental Monitoring System
+
+---
+
+# Internship & Organization Details
+
+| Field                | Details                                                          |
+| -------------------- | ---------------------------------------------------------------- |
+| Internship Title     | Research & Development Internship                                |
+| Project Name         | RADMAP – RADiation MAPping System                                |
+| Organization         | Amity Institute of Nuclear Science and Technology                |
+| University           | Amity University                                                 |
+| Department           | ANIST – Amity Institute of Nuclear Science and Technology        |
+| Internship Domain    | AI/ML • IoT • Nuclear Technology • Embedded Systems              |
+| Role                 | Research and Development Intern                                  |
+| Internship Type      | Summer Internship Program                                        |
+| Project Category     | Research-Based Technical Prototype                               |
+| Research Area        | Radiation Monitoring & Environmental Safety                      |
+| Technologies Used    | Python, Raspberry Pi, GPS Module, Sensors, AI/ML                 |
+| Development Type     | Real-Time Monitoring System                                      |
+| System Type          | GPS Enabled Radiation Mapping Prototype                          |
+| Data Type            | Real-Time Environmental Data                                     |
+| Working Environment  | Research & Development Laboratory                                |
+| Application Area     | Nuclear Monitoring, Smart Surveillance, Environmental Mapping    |
+| Development Approach | AI-Assisted IoT Integrated System                                |
+| Visualization Method | Heatmap & Geospatial Mapping                                     |
+| Project Nature       | Prototype Development & Research Implementation                  |
+| Core Concepts        | Radiation Detection, GPS Mapping, Data Analytics, AI Integration |
+| Future Expansion     | Cloud Integration, Smart Analytics, Mobile Monitoring            |
+| Repository Type      | Product-Based Research Repository                                |
+| Documentation Style  | Technical + Research Documentation                               |
+| Collaboration Scope  | Research, Development, Testing & Analysis                        |
+| Expected Outcome     | Intelligent Radiation Monitoring Prototype                       |
+
+---
+
+# Organization Overview
+
+| Category             | Information                                             |
+| -------------------- | ------------------------------------------------------- |
+| Institution Type     | Research & Higher Education Institution                 |
+| Institute Focus      | Nuclear Science & Technology Research                   |
+| Academic Area        | Scientific Research, Innovation & Technical Development |
+| Research Orientation | AI Integration in Nuclear Applications                  |
+| Technical Exposure   | Research, IoT, AI/ML, Embedded Systems                  |
+| Internship Objective | Practical Exposure to Research & Development            |
+| Innovation Focus     | Smart Monitoring & Intelligent Systems                  |
+
+---
+
+# Project Abstract
+
+RADMAP is an intelligent GPS-enabled radiation mapping system designed to monitor and visualize environmental radiation levels in real time using IoT devices, embedded systems, and AI-assisted analytics.
+
+The system integrates radiation sensors with Raspberry Pi and GPS modules to collect location-aware radiation data. The collected information is processed and visualized using heatmaps and geospatial monitoring interfaces for intelligent environmental analysis and safety assessment.
+
+The project aims to provide a scalable and portable solution for radiation monitoring, environmental safety, smart surveillance, and research-oriented applications.
+
+---
+
+# Project Architecture
+
+```txt id="9oqpgi"
++----------------------+
+| Radiation Sensor     |
++----------------------+
+            ↓
++----------------------+
+| Data Acquisition     |
++----------------------+
+            ↓
++----------------------+
+| Raspberry Pi System  |
++----------------------+
+            ↓
++----------------------+
+| GPS Module           |
++----------------------+
+            ↓
++----------------------+
+| Data Processing      |
+| Python + AI Models   |
++----------------------+
+            ↓
++----------------------+
+| Database / Storage   |
++----------------------+
+            ↓
++----------------------+
+| Heatmap Visualization|
++----------------------+
+            ↓
++----------------------+
+| Monitoring Dashboard |
++----------------------+
+```
+
+---
+
+# Additional Valuable Sections
+
+## Research Components
+
+* Literature Review
+* Radiation Safety Analysis
+* Sensor Accuracy Evaluation
+* Data Collection & Validation
+* AI-Based Monitoring Possibilities
+
+## Engineering Components
+
+* Embedded System Integration
+* GPS Synchronization
+* Real-Time Data Pipeline
+* Sensor Communication
+* Hardware-Software Interfacing
+
+## AI/ML Components
+
+* Data Classification
+* Pattern Analysis
+* Radiation Trend Prediction
+* Intelligent Monitoring Systems
+* Future Predictive Analytics
+
+## Documentation Components
+
+* Technical Reports
+* Research Notes
+* Experimental Observations
+* Prototype Testing Logs
+* Visualization Screenshots
+
 
 # Summer Internship Overview
 
@@ -208,6 +339,25 @@ Cloud-based storage and remote monitoring systems.
 ## Mobile Application Support
 
 Real-time mobile tracking and alerts.
+
+---
+
+# Advanced Future Scope
+
+| Future Enhancement       | Description                                |
+| ------------------------ | ------------------------------------------ |
+| AI Prediction Models     | Predict hazardous radiation zones using ML |
+| Cloud Monitoring         | Real-time cloud synchronization            |
+| Mobile App Integration   | Portable monitoring system                 |
+| Smart Alerts             | Automatic danger notifications             |
+| GIS Integration          | Large-scale geospatial mapping             |
+| Multi-Sensor Network     | Environmental monitoring ecosystem         |
+| Live Dashboard Analytics | Real-time intelligent visualization        |
+| Edge AI Processing       | Faster local data analysis                 |
+| Drone Integration        | Remote radiation mapping                   |
+| Satellite Data Support   | Wide-area monitoring capabilities          |
+
+---
 
 ## Smart Analytics Dashboard
 
