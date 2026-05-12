@@ -99,9 +99,7 @@ The project aims to provide a scalable and portable solution for radiation monit
 
 ---
 
-<p align="center">
-  <h1>Project Architecture</h1>
-</p>
+<h1 align="center">Project Architecture</h1>
 
 <p align="center">
   <img 
