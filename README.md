@@ -1,7 +1,14 @@
 ## AI-Powered Radiation Mapping & Environmental Monitoring System
 
 <p align="center">
-  <img src="ANIST (AMITY) WORK/MEDIA IMAGES/AMITY UNIVERSITY NOIDA LOGO.webp" alt="Amity University Noida" width="100%"/>
+  <img 
+    src="ANIST (AMITY) WORK/MEDIA IMAGES/AMITY UNIVERSITY NOIDA LOGO.webp" 
+    alt="Amity University Noida"
+    width="85%"
+    style="border-radius:20px;
+           box-shadow:0px 8px 25px rgba(0,0,0,0.35);
+           transform:perspective(1000px) rotateX(2deg);"
+  />
 </p>
 
 ### Research & Development Internship Project
